@@ -47,8 +47,12 @@ find
 
 
 .....................Questions & Answers......................
+
+
 create a database bookshop
+
 create a collection books
+
 use bookshop
 db.createCollection("books")
 
